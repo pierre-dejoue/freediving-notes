@@ -13,7 +13,7 @@ Vidéos :
 
 - Un exemple de samba en apnée dynamique : [Freediving dynamique samba](https://www.youtube.com/watch?v=2lUjNdNQcOQ)
 - [Le sauvetage en apnée piscine](https://www.youtube.com/watch?v=XeNiUUTTNwA)
-- [Le sauvetage en apnée profonde](https://www.youtube.com/watch?v=Dowf31JVfGw) :hear_no_evil:
+- [Le sauvetage en apnée profonde](https://www.youtube.com/watch?v=Dowf31JVfGw)
 
 ## Biblio
 
@@ -32,4 +32,4 @@ Livres :
 
 ## Séances
 
-- [Saison 2021-2022](./doc/Seances_saison_2021_2022.md)
+- [Saison 2021-2022](./docs/Seances_saison_2021_2022.md)
