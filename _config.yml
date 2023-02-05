@@ -6,3 +6,7 @@ relative_links:
 include:
   - README.md
   - doc/Seances_saison_2021_2022.md
+
+title: Freediving Notes
+description: Notes personnelles en apnée
+theme: jekyll-theme-primer
