@@ -27,8 +27,8 @@ Livres :
 
 - _La pratique de l’Apnée chez les débutants_ - F. Castel - [pdf](https://www.dropbox.com/s/wbuw4tzauhsg5mr/La-pratique-de-l%E2%80%99Apn%C3%A9e-chez-les-d%C3%A9butants.pdf?dl=0)
 - _Plongée scaphandre et apnée : indépendance et complémentarité ?_ - Véronique Rochin - [pdf](https://apnee.ffessm.fr/uploads/media/docs/0001/07/0b0736cc514c10372e47d3b020c85dd4bcfe0a59.pdf)
-- _L’entraînement à l’apnée : approche pratique_ - Eric Clua - [pdf](https://www.researchgate.net/profile/Eric-Clua/publication/271645063_Free_diving_training_A_practical_approach_in_french/links/54ce6ca60cf298d656615ccf/Free-diving-training-A-practical-approach-in-french.pdf)
-
+- _L’Entraînement à l’apnée : approche pratique_ - Eric Clua - [pdf](https://www.researchgate.net/profile/Eric-Clua/publication/271645063_Free_diving_training_A_practical_approach_in_french/links/54ce6ca60cf298d656615ccf/Free-diving-training-A-practical-approach-in-french.pdf)
+- _La Syncope hypoxique en apnée sportive : description, facteurs favorisants._ - Anouk Dematteo - [pdf](http://sportsub.free.fr/download/Anouk_DEMATTEO_These_medecine_LA_SYN.pdf)
 
 ## Séances
 
