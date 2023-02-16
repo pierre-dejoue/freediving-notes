@@ -20,6 +20,7 @@ En binômes:
 - 2x50m 25m apnée + 4 coups de palmes en bullant à partir de 12.5m. Idem
 
 DNF:
+
 Pas de distance, on décompose bien les mouvements. On part à tour de rôle.
 - 1 départ avec 2 mvts de brasse.
 - 1 départ avec 3 mvts de brasse.
@@ -109,8 +110,11 @@ NB: J'ai fait un 400m PMT juste après l'échauffement: 5'54
 Objectif : Séance de préparation 50m DYN et 2' STAT
 
 ### Echauffement
+
 - 100m nage libre + 100m PMT
+
 ### DYN
+
 - 300m fartlek 12.5m: 4x normal, 4x apnée lente, 4x en bullant. Sécu: oreilles
 - 300m fartlek 25m avec stat au départ: 2x 0", 2x 5", 2x 10". Départ tous les 1'30
 - 100m 2x 37.5m apnée + R 1'30 (finir la longueur en récup active lente) Sécu: binôme
@@ -118,7 +122,9 @@ Objectif : Séance de préparation 50m DYN et 2' STAT
 - 50m  37.5m + 1 inspi sans rupture de nage + 12.5m
 - 50m  apnée. Sécu: apnéiste de sécu avec planches
 - 100m 2x50m apnée départ 3'
+
 ### STAT
+
 - Enchaîner les apnées inspiratoires avec R 1':  45", 1', 1'15, 1'30
 - Enchaîner deux apnées de 2' avec R 1'
 - Jeu : Pierre-Feuille-Ciseau en apnée et en tournoi (Marine gagne, Khieng deuxième)
@@ -128,8 +134,11 @@ Objectif : Séance de préparation 50m DYN et 2' STAT
 Objectif : Exam 50m pour niveau AP
 
 ### Echauffement
+
 - 200m : 100m PMT relax + 100m PMT relax avec respi carrée 3-5 tps
+
 ### DYN
+
 - 200m 8x 12.5m apnée en bullant, R 5 inspis
 - 2x 25m apnée en bullant, R 8 inspis
 - 2x 25m apnée expi sur les premiers 12.5m puis PV, R 8 inspis. Sécu: binôme simultané
@@ -143,7 +152,9 @@ Objectif : Exam 50m pour niveau AP
   > Check: compétence 4, autonomie
 - 50m dyn. Sécu: apnéiste de sécu (encadrant)
   > Check: compétence 3, apnée 50m avec protocole de sortie
+
 ### STAT
+
 - apnées expiratoires: 15", 30", R 30"
 - apnées inspiratoires: 1', 1'30, R 1'. Sécu: apnéiste de sécu
   > Compétence 4 autonomie
@@ -167,8 +178,11 @@ Objectif : Exam 50m pour niveau AP
 ## Séance apnée 2022/02/01
 
 ### Echauffement
+
 - 300m  PM(T)
+
 ### DYN
+
 - 500m pyramide inversée en PMT, temps: 6-5-4-3-2-3-4-5-6. Accélération progressive sur la 1ere moitié, sprint au 2 temps, réussir à récupérer sur le 2eme moitié. Finir par 50m cool
 - 100m planche normal
 - 100m planche rattrapé
@@ -180,7 +194,9 @@ Objectif : Exam 50m pour niveau AP
 - 4x37.5m apnée + 12.5m récup active D2'
 - 2x37.5m apnée + 1 inspi + 12.5m apnée D2'
 - 2x50m apnée D2'
+
 ### STAT
+
 - apnées expis: 15", 30", 45", R30"
 - apnées inspis: 1', 1'30, 2', 2'30 Récup égale au temps d'apnée
 
@@ -226,8 +242,11 @@ Volume total: 1900m, dont volume en apnée: 1150m !
 Objectif: préparation exam IE
 
 ### Technique
+
 Mannequin + atelier sauvetage
+
 ### DYN
+
 - 100m nage PM rythme 50%
 - 100m nage PM                             2x25m 3 inspis, 2x25m 2 inspis
 - 100m petits canards apnée mi-profondeur, 2x25m 3 inspis, 2x25m 2 inspis
@@ -236,7 +255,9 @@ Mannequin + atelier sauvetage
   > Note pour l'exam, on pourra faire 4x25m avec stat = 0", 15", 30", 45". R 30"
 - 50m apnée (optionnel)
 - 3x50m apnée D 1'45" (épreuve phy exam IE)
+
 ### STAT
+
 - 2x apnée expi : 30", 45". R 1'30
 - 1x apnée inspi 3' avec 2 inspis. R 2'30"
 - 1x apnée inspi 3' avec 1 inspi.  R 3'
@@ -247,9 +268,12 @@ Mannequin + atelier sauvetage
 Note: la plupart des séries avec tuba
 
 ### Echauffement
+
 - 100m sans palmes
 - 300m PMT
+
 ### Corps de séance
+
 - 400m PMT rattrapé
 - 600m planche, palmage ventral
 - 400m planche, garder le tuba, 25m côté G, 25m planche entre les jambes, puis côté D, etc.
@@ -263,7 +287,9 @@ Note: la plupart des séries avec tuba
     - 150m R30"
     - 100m rapide R30"
     - 50m  rapide
+
 ### Retour au calme
+
 - 200m Planche, ventral relax
 
 Volume total: 3200m

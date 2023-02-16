@@ -33,3 +33,4 @@ Livres :
 ## Séances
 
 - [Saison 2021-2022](./docs/Seances_saison_2021_2022.md)
+- [Saison 2022-2023 (PMT)](./docs/Seances_saison_2022_2023_PMT.md)
