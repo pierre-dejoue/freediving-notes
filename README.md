@@ -30,6 +30,8 @@ Livres :
 - _L’Entraînement à l’apnée : approche pratique_ - Eric Clua - [pdf](https://www.researchgate.net/profile/Eric-Clua/publication/271645063_Free_diving_training_A_practical_approach_in_french/links/54ce6ca60cf298d656615ccf/Free-diving-training-A-practical-approach-in-french.pdf)
 - _La Syncope hypoxique en apnée sportive : description, facteurs favorisants._ - Anouk Dematteo - [pdf](http://sportsub.free.fr/download/Anouk_DEMATTEO_These_medecine_LA_SYN.pdf)
 
+[Biblio plongée](docs/Scuba_diving_refs.md)
+
 ## Séances
 
 - [Saison 2021-2022](./docs/Seances_saison_2021_2022.md)

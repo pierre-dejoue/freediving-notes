@@ -5,8 +5,9 @@ relative_links:
   collections: true
 include:
   - README.md
-  - doc/Seances_saison_2021_2022.md
-  - doc/Seances_saison_2022_2023_PMT.md
+  - docs/Scuba_diving_refs.md
+  - docs/Seances_saison_2021_2022.md
+  - docs/Seances_saison_2022_2023_PMT.md
 
 title: Freediving Notes
 description: Notes personnelles en apnée
