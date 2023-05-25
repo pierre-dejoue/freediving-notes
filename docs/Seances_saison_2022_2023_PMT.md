@@ -24,8 +24,36 @@ Note: Pour les N2, enlever soit la pyramide 300m, soit le 400m chrono.
 - 200m en binôme alternés : 12.5m apnée + 12.5m apnéiste de sécu. /!\ planches pour la sécu
 - 2x 25m apnée DYN (N3 seulement). /!\ apnéiste de sécu avec planches. Protocole de sortie.
 
-Volume total: 1700m (N2)  2200m  (N3)
+Volume total : 1700m (N2) ou 2200m (N3)
 
+## Séance nage PMT pour futurs N2, 1er déc 2022
+
+Brief : Techniques d'immersion, ventilation avec tuba
+
+Echauffement :
+- 100m nage libre sans palmes
+- 200m PMT
+
+Nage :
+- 200m PMT alterner 50m petit palmage bras tendus, 50m rattrapé
+- 15" sustentation + 3x phoques. Apnée ~ 15" sur le dernier
+- 50m PMT commencer chaque 25m par canard, 5m apnée, sortie tour d'horizon et signe OK
+- 200m PMT éducatifs: 50m essuie-glaces, 50m poings fermés
+- 50m PMT 1x canard par 25m (bis)
+- 500m pyramide de JP :
+    - 50m  R10"   normal
+    - 100m R20"   normal
+    - 200m R30"   normal
+    - 100m R20"   rapide
+    - 50m         rapide
+ - 100m planche palmage ventral relax (enchaîner après la pyramide)
+ - 200m planche 50m G, 50m D, 50m chaise, 50m ventral bien allongé
+ - 100m planche dos relâché (sécu : planche sous la nuque)
+
+Apnée : sans tuba, en binômes
+- 100m 12.5m apnée / 12.5m surface. Alterner avec le binôme
+- 100m 15 à 20m apnée finir le 25m à la nage. Alterner avec le binôme tous les 25m
+- Petit DNF: Limiter à 2 mvts bras + jambes max
 
 ## Séance nage PMT pour futurs N2, 15 déc 2022
 
@@ -40,8 +68,54 @@ Brief : ventilation avec tuba pour un effort long
 - 200m éducatifs PMT: alterner 50m crawl essui-glace, 50m crawl poings fermés
 - 50m 1xcanard, 12.5m apnée, sortir avec tour d'horizon, vidage de tuba et signe OK. Finir 37.5m nage PMT.
 - 3x phoques + 1x phoque avec 20" d'apnée
-- 200m circuit PMT sur demi-bassin profond. 4x: nage PMT, virage au 25m (sans appui) retour 25m, canard, sortie avec vidage tuba et signe OK. R15" 
+- 200m circuit PMT sur demi-bassin profond. 4x: nage PMT, virage au 25m (sans appui) retour 25m, canard, sortie avec vidage tuba et signe OK. R15"
 - 100m PM (sans tuba) alterner en binôme 12.5m apnée, 12.5m RA
 - Initiation DNF, coulée et max 2 mvts bras + 2 mvts jambes. Passer dans un cerceau immergé
 
-Volume total: 1900m
+Volume total : 1900m
+
+## Séance nage PMT pour futurs N2, 16 fév 2023
+
+Echauffement :
+- 200m nage libre sans palmes
+- 200m PMT
+
+Nage :
+- 300m PMT pyramide intensité 70%-80%-90%-80%-70% + 50m relâché
+- 200m PMT éducatifs: 50 rattrapé, 50m essuie-glaces
+- 600m planche 3x(50m opp + 50m ventral + 50m G + 50m D). Rythme normal-rapide-normal
+- 100m planche chaise
+- 15" sustentation + 3x phoques le dernier avec apnée 20"
+- 200m PMT à la fin de chaque 25m un canard dans la continuité de la nage, <5m de distance, tour d'horizon, signe OK.
+
+Apnée : tuba optionel, en binômes
+- 100m crawl relâché (si à l'aise, respi 5 tps)
+- 100m 12.5m apnée / 12.5m surface. Alterner avec le binôme
+- 100m 20m apnée finir le 25m à la nage. Alterner avec le binôme tous les 25m. R 45"
+- 2x25m apnée R 1'
+
+## Séance nage PMT pour futurs N2, avril 2023
+
+Echauffement :
+- 200m nage libre sans palmes
+- 200m PMT
+
+Nage :
+- 500m pyramide 5-6-7-6-5 tps (changer tous les 100m)
+- 600m planche 3x(50m opp + 50m ventral + 50m G + 50m D). Rythme normal-rapide-normal
+- 700m pyramide de JP :
+    - 50m  R10"   normal
+    - 100m R20"   normal
+    - 200m R30"   normal
+    - 200m R30"   bien nagé
+    - 100m R20"   rapide
+    - 50m         rapide
+- 100m planche palmage ventral relax (enchaîner après la pyramide)
+- 400m PMT, se chronométrer
+
+Retour au calme :
+- 100m PMT rythme lent, étirer tout le corps. (ou, planche)
+- 200m marsouinage (canard, apnée 10m max, nage lente en surface)
+- apnée en largeur ou petit DNF dans partie du bassin peu profonde
+
+Volume total : 3000m
