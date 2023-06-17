@@ -119,3 +119,27 @@ Retour au calme :
 - apnée en largeur ou petit DNF dans partie du bassin peu profonde
 
 Volume total : 3000m
+
+## Séance PMT pour tous, juin 2023
+
+Objectif : nage PM(T) et travail immersion. Tuba optionel.
+
+Echauffement :
+- 200m nage libre sans palmes
+- 200m PM
+
+Corps de séance :
+- 600m planche 3x(50m opp + 50m ventral + 50m G + 50m D). Rythme normal-rapide-normal
+- 500m pyramide de JP :
+    - 50m  R10"   normal
+    - 100m R20"   normal
+    - 200m R30"   normal
+    - 100m R20"   bien nagé
+    - 50m         rapide
+- 100m planche palmage ventral relax (enchaîner après la pyramide)
+- 200m PM avec mvts entre inspis 2-4-6-max (changer ts les 50m)
+- 150m PM dans le demi-bassin profond : 25m enchaîner avec un canard bien vertical. Regarder où on descend et où on sort.
+- Exercice flottabilité : avec un point d'appui expirer jusqu'à se sentir couler.
+- 2x phoques apnée 15", 20"
+- Exercice : canard sans palmes
+- Petit DNF
