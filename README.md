@@ -9,6 +9,10 @@ Réglementation :
 - MFA : [pratique](https://apnee.ffessm.fr/les-niveaux-d-apnee) / [encadrement](https://apnee.ffessm.fr/les-niveaux-d-encadrement)
 - Code du sport relatif à l'apnée : [Article A322-101](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025705112#:~:text=Une%20VHF%20est%20n%C3%A9cessaire%20lorsque,type%20en%20annexe%20III%2D19.)
 
+Sécurité :
+
+- La fiche [sauvetage apnée](https://www.plongee-plaisir.com/fr/sauvetage-apnee/) du site Plongée Plaisir
+
 Vidéos :
 
 - Un exemple de samba en apnée dynamique : [Freediving dynamique samba](https://www.youtube.com/watch?v=2lUjNdNQcOQ)
