@@ -18,6 +18,7 @@ Vidéos :
 - Un exemple de samba en apnée dynamique : [Freediving dynamique samba](https://www.youtube.com/watch?v=2lUjNdNQcOQ)
 - [Le sauvetage en apnée piscine](https://www.youtube.com/watch?v=XeNiUUTTNwA)
 - [Le sauvetage en apnée profonde](https://www.youtube.com/watch?v=Dowf31JVfGw)
+- [La bouteille d'O2 en situation d'urgence](https://www.youtube.com/watch?v=rLR5htqT8zI)
 
 Anatomie :
 
