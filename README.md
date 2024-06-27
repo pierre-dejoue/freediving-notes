@@ -37,13 +37,20 @@ Livres :
  Textes :
 
 - _La pratique de l’Apnée chez les débutants_ - F. Castel - [pdf](https://www.dropbox.com/s/wbuw4tzauhsg5mr/La-pratique-de-l%E2%80%99Apn%C3%A9e-chez-les-d%C3%A9butants.pdf?dl=0)
+
 - _Plongée scaphandre et apnée : indépendance et complémentarité ?_ - Véronique Rochin - [pdf](https://apnee.ffessm.fr/uploads/media/docs/0001/07/0b0736cc514c10372e47d3b020c85dd4bcfe0a59.pdf)
+
 - _L’Entraînement à l’apnée : approche pratique_ - Eric Clua - [pdf](https://www.researchgate.net/profile/Eric-Clua/publication/271645063_Free_diving_training_A_practical_approach_in_french/links/54ce6ca60cf298d656615ccf/Free-diving-training-A-practical-approach-in-french.pdf)
+
 - _La Syncope hypoxique en apnée sportive : description, facteurs favorisants._ - Anouk Dematteo - [pdf](http://sportsub.free.fr/download/Anouk_DEMATTEO_These_medecine_LA_SYN.pdf)
+
 - _L'œdème aigu du poumon en apnée_ - Cécile Pétré - [pdf](https://www.apnealp.fr/fichiers/cours/AEEL/L'oed%C3%A8me%20aig%C3%BB%20du%20poumon%20en%20apn%C3%A9e.pdf)
+
 - _L’œdème pulmonaire en immersion_ (subaqua 224 mai-juin 2009) - Anne HENCKES - [pdf](http://www.codep87.fr/h2o/images/pdf/OPI.pdf)
 
-[Biblio plongée](docs/Scuba_diving_refs.md)
+- Apnée du sportif : des contraintes physiologiques et environnementales complexes - [url](https://www.lamedecinedusport.com/sports/apnee-du-sportif-des-contraintes-physiologiques-environnementales-complexes) - [pdf](https://www.dropbox.com/scl/fi/dn6qcahr0bbahvrj1uuy1/Apn-e-du-sportif-_-des-contraintes-physiologiques-et-environnementales-complexes.pdf?rlkey=wckxa3p3ixrh9zy3u1ntf5web&st=5wvkwdm5&dl=0)
+
+## [Biblio plongée](docs/Scuba_diving_refs.md)
 
 ## Séances
 

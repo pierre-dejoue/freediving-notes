@@ -11,7 +11,7 @@ DAN (Divers Alter Network) :
 
 ## Médical
 
-Dents, sphère ORL:
+Dents, sphère ORL :
 
 - [Odontologie et plongée](http://www.dentenerg.ch/plongee.php)
 - _La plongée sous-marine, une pratique à risque pour la zone oro-faciale_ - Nicolas Erchof [pdf](https://dumas.ccsd.cnrs.fr/dumas-01785005/document)
